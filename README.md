@@ -6,3 +6,5 @@ Geothon este un joc pentru mobil care iti permite sa aduni leptoni(banuti) de pe
 
 ![Argos](https://github.com/tehwizardz/geothon/blob/master/argos.png?raw=true "Argos")
 ![Naxos](https://github.com/tehwizardz/geothon/blob/master/naxos.png?raw=true "Naxos")
+
+Argos                     Naxos
